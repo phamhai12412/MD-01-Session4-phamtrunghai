@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 700px;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+
+.text {
+    font-size: 30px;
+    position: absolute;
+    left: 40px;
+    top: 450px;
+    color: white;
+}
+
+
+.button {
+    font-size: 25px;
+    background-color: rgb(229, 16, 16);
+    color: aliceblue;
+    border-radius: 15px;
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    padding: 7px;
+}
+
+#button {
+    top: 183px;
+    left: 625px;
+    font-size: 37px;
+    padding-left: 16px;
+    padding-right: 15px;
+}
+
+
+
+#button1 {
+    top: 272px;
+    left: 626px;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#button2 {
+    top: 352px;
+    left: 626px;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.noi {
+    width: 3px;
+    height: 24px;
+    position: absolute;
+    top: 248px;
+    left: 659px;
+    background-color: #fff;
+}
+
+#noi1 {
+    top: 327px;
+    left: 659px;
+}

@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.backgroud {
+    background-color: rgb(233, 63, 153);
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding-left: 25px;
+    padding-top: 25px;
+    position: relative;
+
+}
+
+.kieub {
+    font-size: 35px;
+}
+
+.kieup {
+    font-size: 15px;
+}
+
+.tieudep {
+    margin: 211px;
+    background-color: rgb(174, 24, 164);
+    padding-left: 15px;
+
+
+
+}
+
+.kcspan {
+    padding-left: 15px;
+    background-color: rgb(222, 91, 248);
+    padding-right: 15px;
+}
+
+.text {
+    width: 600px;
+    background-color: rgb(174, 24, 164);
+    position: absolute;
+    top: 150px;
+    left: 121px;
+}

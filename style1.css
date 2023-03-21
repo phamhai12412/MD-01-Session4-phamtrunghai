@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imgnen {
+    width: 350px;
+    height: auto;
+}
+
+.img {
+    width: 20px;
+    height: auto;
+
+}
+
+.content .noti {
+    width: 100%;
+    position: absolute;
+    top: 290px;
+
+    font-size: 25px;
+    color: aliceblue;
+    background-color: rgb(17, 17, 17, 0.5);
+}
+
+.content {
+    padding-top: 76px;
+    width: 350px;
+    height: auto;
+    position: relative;
+    margin: auto;
+}
+
+
+.text {
+    font-size: 30px;
+
+}
